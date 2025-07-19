@@ -67,20 +67,20 @@ echo 'export GEMINI_API_KEY="your-key-here"' >> ~/.zshrc && source ~/.zshrc
 
 ---
 
-## 🗣️ Arabic Description | الوصف بالعربية
+## 🗣️  Description |
 
-**ZeroGemini** هي أداة ذكية تعتمد على Gemini CLI، تُدمج داخل ZeroLinux لتوفر تجربة ذكاء صناعي من داخل الطرفية (Terminal).
+**ZeroGemini** is a smart tool based on the Gemini CLI, integrated into ZeroLinux to provide an AI experience from within the terminal.
 
-✅ تقوم بـ:
-- تثبيت الأدوات اللازمة مثل Node.js و npm.
-- تثبيت gemini-cli الرسمي من Google.
-- إعداد الأمر `zero-gemini` للاستخدام السريع.
-- حفظ مفتاح API الخاص بك تلقائياً.
-- إضافة أيقونة و Launcher للواجهة الرسومية.
+✅ It:
+- Installs necessary tools such as Node.js and npm.
+- Installs the official gemini-cli from Google.
+- Configures the `zero-gemini` command for quick use.
+- Automatically saves your API key.
+- Adds an icon and launcher to the GUI.
 
-🧠 بعد التثبيت:
-- يمكنك تشغيلها بكتابة: `zero-gemini` في الطرفية.
-- أو من خلال قائمة التطبيقات تحت اسم **ZeroGemini AI**.
+🧠 After installation:
+- You can launch it by typing: `zero-gemini` in the terminal.
+- Or through the applications menu under the name **ZeroGemini AI**.
 
 ---
 
