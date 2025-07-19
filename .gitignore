@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Linux & Bash
+*.log
+*.swp
+*.bak
+*.tmp
+
+# Editor configs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# System
+.DS_Store
+Thumbs.db
+
+# Archives
+*.tar
+*.tar.gz
+*.zip
+*.7z
+
+# Permissions
+*.lock
